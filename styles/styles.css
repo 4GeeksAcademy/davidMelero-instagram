@@ -1,0 +1,42 @@
+body {
+    border: 1px solid black;
+    margin: 0 auto;
+    margin-top: 2em;
+    width: 500px;
+    height: 700px;
+}
+
+.head {
+    display: flex;
+    justify-content: space-between;
+    border: 0.5px solid rgb(255, 19, 19);
+    height: 50px;
+}
+
+#puntos {
+    padding-right: 10px;
+
+}
+
+i {
+    font-size: 1.5em;
+    margin-top: 12px;
+}
+
+.minibody img {
+    height: 450px;
+    width: 100%;
+}
+
+.icons {
+    display: flex;
+
+}
+
+.first {
+    padding-right: 24.4em;
+    margin-left: 5px;
+}
+footer p {
+    margin-left:0.3em;
+}
